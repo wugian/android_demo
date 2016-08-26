@@ -14,7 +14,7 @@ import android.widget.Toast;
 
 import com.wugian.mvpmodule.R;
 import com.wugian.mvpmodule.presenter.UserLoginPresenter;
-import com.wugian.mvpmodule.utils.DownloadUtil;
+import com.wugian.mvpmodule.utils.download.DownloadUtil;
 import com.wugian.mvpmodule.dowload.DownloadProgressListener;
 import com.wugian.mvpmodule.dowload.FileDownloader;
 
